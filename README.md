@@ -7,7 +7,7 @@ You: what time is it in bangladesh ?
 Bot: Asia/Dhaka: 21-03-2025 01:09:11
 You: what time in Kolkata ?
 Bot: Asia/Kolkata: 21-03-2025 00:39:22
-You: How's going on ?
+You: Hows going on ?
 Bot: thanks for asking me
 ```
 
