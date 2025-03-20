@@ -1,4 +1,4 @@
-# hSimple Current Time Finder using Wit.ai & Node.js
+# Simple Current Time Finder using Wit.ai & Node.js
 This is a Node.js application that uses Wit.ai to process natural language queries (e.g., "What time is it in Bangladesh?") and fetches the current time for a given location.
 
 ## Features
